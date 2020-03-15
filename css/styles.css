@@ -1,3 +1,6 @@
 #story {
     display: none;
   }
+  .container{
+    background-color: blueviolet;
+  }
